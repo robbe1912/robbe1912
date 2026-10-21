@@ -8,12 +8,13 @@ Senior Software Engineer — full-stack TypeScript/React/Three.js, real-time 3D 
 ## Open source
 
 - **[neuronav](https://github.com/robbe1912/neuronav)** — local code intelligence for AI agents: vector search, call graph, 3D code map. 16 stdio MCP tools, zero-config via `uvx`.
+- **[motorstorm-mv-recomp](https://github.com/robbe1912/motorstorm-mv-recomp)** — in-progress static recompilation of MotorStorm (PS3) to native Windows; SPU/RSX research, capture & replay. Source-only.
 - **[godot-mcp](https://github.com/robbe1912/godot-mcp)** — 149 MCP tools driving the Godot editor from AI clients.
 - **[godot-vfx-preloader](https://github.com/robbe1912/godot-vfx-preloader)** — two-phase VFX preloader that eliminates shader-compilation hitches.
 - **[ctx](https://github.com/robbe1912/ctx)** — coding-agent session history; rebuilt the opencode import pipeline (112 → 53,678 imported events).
 - **[odysseus](https://github.com/robbe1912/odysseus)** — multimodal message persistence; images and vision content survive session round-trips.
 - [gdls](https://github.com/kurushimee/gdls) — GDScript language server; GDExtension silent-failure diagnostics and native typing (PRs #452–#479).
-- [opencode-mobile](https://github.com/alvarolorentedev/opencode-mobile) — React Native client for opencode; transcript & session-list performance, favorites, subagent chats (9 merged PRs).
+- [opencode-mobile](https://github.com/alvarolorentedev/opencode-mobile) — React Native client for opencode; transcript & session-list performance, favorites, subagent chats (12 merged PRs).
 - [godot-ai](https://github.com/hi-godot/godot-ai) — Oh My Pi (omp) client support and dock fixes (#1086, #1093).
 
 ## Stack
